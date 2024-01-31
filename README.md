@@ -8,7 +8,7 @@
  - [LevelUp]( https://github.com/Eli-J-Paris/LevelUp)
 - [InkOwl](https://github.com/Eli-J-Paris/InkOwl)
 
-More to come . . .
+More to come . . 
 <!---
 Eli-J-Paris/Eli-J-Paris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
